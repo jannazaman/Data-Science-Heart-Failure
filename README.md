@@ -24,4 +24,8 @@ The data set is titled “Heart Failure Prediction Dataset” and can be found o
 11) ST_Slope: the slope of the peak exercise ST segment [Up: upsloping, Flat: flat, Down: downsloping] Quantitative
 12) HeartDisease: output class [1: heart disease, 0: Normal] Quantitative 
 
+### Notes:
+- ***All of the code is in "Heart Project.R" file.***
+- ***You can ignore the warnings on "Heart Failure.ipynb" file.***
+- ***Dataset used is included - just download and adjust the data import scetion.***
 
